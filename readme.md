@@ -1,9 +1,10 @@
 # Welcome to Club Website Development !
 
 👨‍💻👩‍💻Hi devs !
+
 Junior dev adalah bagian dari club website developemnt Ristek HMIT yang dapat dihadiri seluruh mahasiswa IT semester 2 ke atas. Materi yang diajarkan akan disesuikan dengan pelajaran di kelas perkuliahan. Jadi pada setiap pertemuannya, kita akan belajar dan berdiskusi bersama terkait topik-topik yang belum dibahas dikelas atau mungkin perlu untuk lebih dipelajari lagi diluar kelas.
 
-Materi-materi dibawah akan dipelajari dalam rentang waktu kurang lebih 6 bulan sampai November 2023.
+Materi-materi dibawah akan dipelajari dalam rentang waktu kurang lebih 6 bulan sampai November 2023. Untuk jadwal pertemuan dan intensitas pertemuan akan dibahas pada pertemuan pertama.
 
 🚀Hope u enjoy the class!
 
